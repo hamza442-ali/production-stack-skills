@@ -1,0 +1,4 @@
+interface:
+  display_name: "Build .NET API"
+  short_description: "Deliver a production ASP.NET Core API slice"
+  default_prompt: "Use $build-dotnet-api to implement this capability in the current ASP.NET Core service."
