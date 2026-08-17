@@ -1,0 +1,4 @@
+interface:
+  display_name: "Deploy Vercel Application"
+  short_description: "Prepare and verify a safe Vercel deployment"
+  default_prompt: "Use $deploy-vercel-application to prepare, deploy, and verify this application on Vercel."
