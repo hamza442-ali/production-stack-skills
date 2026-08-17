@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ship Next.js Feature"
+  short_description: "Deliver a verified Next.js vertical slice"
+  default_prompt: "Use $ship-nextjs-feature to implement this feature end to end in the current Next.js application."
