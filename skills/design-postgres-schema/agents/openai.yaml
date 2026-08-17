@@ -1,0 +1,4 @@
+interface:
+  display_name: "Design PostgreSQL Schema"
+  short_description: "Design safe PostgreSQL schemas and migrations"
+  default_prompt: "Use $design-postgres-schema to design and verify this PostgreSQL schema change."
