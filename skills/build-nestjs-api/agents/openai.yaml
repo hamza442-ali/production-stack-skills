@@ -1,0 +1,4 @@
+interface:
+  display_name: "Build NestJS API"
+  short_description: "Implement a production NestJS API capability"
+  default_prompt: "Use $build-nestjs-api to add this API capability to the current NestJS service."
