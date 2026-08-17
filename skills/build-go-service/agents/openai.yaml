@@ -1,0 +1,4 @@
+interface:
+  display_name: "Build Go Service"
+  short_description: "Implement an idiomatic verified Go service slice"
+  default_prompt: "Use $build-go-service to implement this capability in the current Go service."
