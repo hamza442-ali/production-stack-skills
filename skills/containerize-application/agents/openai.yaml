@@ -1,0 +1,4 @@
+interface:
+  display_name: "Containerize Application"
+  short_description: "Create a secure reproducible application image"
+  default_prompt: "Use $containerize-application to create or improve the container setup for this application."
