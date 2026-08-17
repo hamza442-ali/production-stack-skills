@@ -1,0 +1,4 @@
+interface:
+  display_name: "Build GitHub Actions CI"
+  short_description: "Create secure maintainable GitHub Actions CI"
+  default_prompt: "Use $build-github-actions-ci to create or improve CI for this repository."
