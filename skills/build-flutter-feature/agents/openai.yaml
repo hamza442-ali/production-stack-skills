@@ -1,0 +1,4 @@
+interface:
+  display_name: "Build Flutter Feature"
+  short_description: "Deliver a tested cross-platform Flutter feature"
+  default_prompt: "Use $build-flutter-feature to implement this feature in the current Flutter application."
