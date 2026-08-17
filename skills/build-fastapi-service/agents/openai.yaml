@@ -1,0 +1,4 @@
+interface:
+  display_name: "Build FastAPI Service"
+  short_description: "Deliver a typed FastAPI service capability"
+  default_prompt: "Use $build-fastapi-service to implement this capability in the current FastAPI service."
