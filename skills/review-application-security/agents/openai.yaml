@@ -1,0 +1,4 @@
+interface:
+  display_name: "Review Application Security"
+  short_description: "Find and explain credible application risks"
+  default_prompt: "Use $review-application-security to perform an authorized security review of this application change."
